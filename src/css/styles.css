@@ -1,0 +1,11 @@
+header 
+    {
+    background: rgba(201, 76, 76, 0.3);
+    }
+.logoText 
+    {
+        font-family: "Open Sans";
+        font-size : 32px;
+        text-align: center;
+        color: #FFF;
+    }
